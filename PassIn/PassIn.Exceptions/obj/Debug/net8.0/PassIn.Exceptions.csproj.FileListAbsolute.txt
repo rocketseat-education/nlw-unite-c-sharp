@@ -1,0 +1,11 @@
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Exceptions/bin/Debug/net8.0/PassIn.Exceptions.deps.json
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Exceptions/bin/Debug/net8.0/PassIn.Exceptions.dll
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Exceptions/bin/Debug/net8.0/PassIn.Exceptions.pdb
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Exceptions/obj/Debug/net8.0/PassIn.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Exceptions/obj/Debug/net8.0/PassIn.Exceptions.AssemblyInfoInputs.cache
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Exceptions/obj/Debug/net8.0/PassIn.Exceptions.AssemblyInfo.cs
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Exceptions/obj/Debug/net8.0/PassIn.Exceptions.csproj.CoreCompileInputs.cache
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Exceptions/obj/Debug/net8.0/PassIn.Exceptions.dll
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Exceptions/obj/Debug/net8.0/refint/PassIn.Exceptions.dll
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Exceptions/obj/Debug/net8.0/PassIn.Exceptions.pdb
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Exceptions/obj/Debug/net8.0/ref/PassIn.Exceptions.dll

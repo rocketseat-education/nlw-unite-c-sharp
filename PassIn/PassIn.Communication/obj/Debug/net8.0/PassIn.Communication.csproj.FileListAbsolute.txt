@@ -1,0 +1,11 @@
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Communication/bin/Debug/net8.0/PassIn.Communication.deps.json
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Communication/bin/Debug/net8.0/PassIn.Communication.dll
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Communication/bin/Debug/net8.0/PassIn.Communication.pdb
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Communication/obj/Debug/net8.0/PassIn.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Communication/obj/Debug/net8.0/PassIn.Communication.AssemblyInfoInputs.cache
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Communication/obj/Debug/net8.0/PassIn.Communication.AssemblyInfo.cs
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Communication/obj/Debug/net8.0/PassIn.Communication.csproj.CoreCompileInputs.cache
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Communication/obj/Debug/net8.0/PassIn.Communication.dll
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Communication/obj/Debug/net8.0/refint/PassIn.Communication.dll
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Communication/obj/Debug/net8.0/PassIn.Communication.pdb
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Communication/obj/Debug/net8.0/ref/PassIn.Communication.dll

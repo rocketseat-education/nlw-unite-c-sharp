@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="UseCases\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PassIn.Communication\PassIn.Communication.csproj" />
+    <ProjectReference Include="..\PassIn.Exceptions\PassIn.Exceptions.csproj" />
+    <ProjectReference Include="..\PassIn.Infrastructure\PassIn.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yQVyzyG5xEe/02Txpv6TFVDTKBZOSz6tIX6ZWa8cv3w=",
+  "Source": "PassIn.Api",
+  "BasePath": "_content/PassIn.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Infrastructure/bin/Debug/net8.0/PassIn.Infrastructure.deps.json
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Infrastructure/bin/Debug/net8.0/PassIn.Infrastructure.dll
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Infrastructure/bin/Debug/net8.0/PassIn.Infrastructure.pdb
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/PassIn.Infrastructure.csproj.AssemblyReference.cache
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/PassIn.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/PassIn.Infrastructure.AssemblyInfoInputs.cache
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/PassIn.Infrastructure.AssemblyInfo.cs
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/PassIn.Infrastructure.csproj.CoreCompileInputs.cache
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/PassIn.Infrastructure.dll
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/refint/PassIn.Infrastructure.dll
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/PassIn.Infrastructure.pdb
+/home/dop/Source/repos/daniloopinheiro/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/ref/PassIn.Infrastructure.dll
